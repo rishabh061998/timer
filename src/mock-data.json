@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "Rishabh",
+    "Gender": "male",
+    "Age": "12",
+    "email": "rishbnah@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "rahul",
+    "Gender": "male",
+    "Age": "75",
+    "email": "rahul@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Tony",
+    "Gender": "male",
+    "Age": "7",
+    "email": "tony@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "seema",
+    "Gender": "female",
+    "Age": "67",
+    "email": "seema@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "kiran",
+    "Gender": "femlae",
+    "Age": "34",
+    "email": "kiran@email.com"
+  }
+]
